@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664446029 source:c:\users\rashid\desktop\test_c\strdup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
