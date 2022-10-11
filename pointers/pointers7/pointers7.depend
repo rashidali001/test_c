@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665120494 source:c:\users\rashid\desktop\test_c\pointers\pointers7\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<unistd.h>
+
